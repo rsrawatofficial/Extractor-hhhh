@@ -2,33 +2,33 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7527954976:AAG18eVvsB3BezEzo4e3UYeiYmSRzL-Osfk"
+    BOT_TOKEN = "7567535442:AAGeOwZKBfjRiQCdKg33KUi9L_XHKB2olBo"
     # Telegram API ki ID
-    API_ID = 18116358
+    API_ID = 21705536
     # Telegram API ki hash key
-    API_HASH = "80e7597f27a57df271dfc500120d4ea9"
+    API_HASH = "c5bb241f6e3ecf33fe68a444e288de2d"
     # Admin users ki IDs (comma se separate ki hui)
-    ADMIN = '7836088695'.split(',')
+    ADMIN = '7935947598'.split(',')
     # Admin IDs ko integer list mein convert karna
     ADMIN_ID = [int(id) for id in ADMIN]
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://mewadonlinestudy:yYjxKiZGQag8DnWH@cpvod.ywpecvo.mongodb.net/?retryWrites=true&w=majority&appName=cpvodak"
+    DB_URL = "mongodb+srv://chiruedizz:WmzSiQlS35fLDImn@cluster0.4o4zl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
     DB_NAME = "MY_BOT_DB"
     # Text log channel ki ID
-    TXT_LOG = -1002382878293
+    TXT_LOG = -1002273365728
     # Authentication log channel ki ID
-    AUTH_LOG = -1002156464632
+    AUTH_LOG = -1002273365728
     # Hit log channel ki ID
-    HIT_LOG = -1002384141550
+    HIT_LOG = -1002273365728
     # DRM dump channel ki ID
-    DRM_DUMP = -1002363712791
+    DRM_DUMP = -1002273365728
     # Main channel ki ID
-    CHANNEL = -1002307483076
+    CHANNEL = -1002273365728
     # Channel ka link
-    CH_URL = "https://t.me/+jkYFQeHgOpZkOTg9"
+    CH_URL = "https://t.me/+YSYsx3Z4cXA5MTg1"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/SEM2JOB"
+    OWNER = "https://t.me/chiru52"
     # Thumbnail image ka URL
     THUMB_URL = "https://te.legra.ph/file/11366447de3410810a383-d29ae883f7add39f2a.jpg" #Replace by with your Thumb URL
     # API host ka URL
